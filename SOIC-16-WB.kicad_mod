@@ -1,4 +1,4 @@
-(module SOIC-16_WB (layer F.Cu) (tedit 5746BA06)
+(module SOIC-16-WB (layer F.Cu) (tedit 5746BA06)
   (descr https://www.silabs.com/Support%20Documents/TechnicalDocs/Si8239x.pdf)
   (tags "SOIC16 WB")
   (attr smd)
